@@ -14,7 +14,5 @@ Part 2:
 
 Wireframe the Chat Interface:
 
-
-
 ![Wireframe](https://github.com/user-attachments/assets/982910a9-2483-4945-a01b-305fb90e4f85)
 
