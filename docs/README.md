@@ -16,7 +16,11 @@ Wireframe the Chat Interface:
 
 ![Wireframe](https://github.com/user-attachments/assets/982910a9-2483-4945-a01b-305fb90e4f85)
 
+Medium Link:
+
 https://medium.com/@pravinkumar.r2021/challenges-faced-during-this-project-how-i-overcame-them-c964f8d27523
+
+Loom Link:
 
 https://www.loom.com/share/94c5250d490c494196f1dec78a9ce652?sid=d38cdc1a-a380-44f8-a6e4-4c3ea3cd8304
 
